@@ -1,0 +1,10 @@
+Versões utilizadas:
+
+.Net Core 2.1
+@angular-devkit/architect    0.6.7
+@angular-devkit/core         0.6.7
+@angular-devkit/schematics   0.6.7
+@schematics/angular          0.6.7
+@schematics/update           0.6.7
+rxjs                         6.4.0
+typescript                   2.7.2
